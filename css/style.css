@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas:100,200,300,400,500,600,700,800,900|Indie+Flower:100,200,300,400,500,600,700&display=swap');
 .top-img {
     background-image: url('../assets/images/monkees.jpg');
     background-size: cover;
@@ -7,12 +8,80 @@
 }
 
 
-/*-------------- Nav Bar----*/
+/*--------------------------------------------------------- Nav Bar----*/
 
 .navbar-brand {
     font-size: 2em;
+    font-family: 'Mountains of Christmas', sans-serif;
+    font-weight: 900;
 }
 
 .navbar-nav {
     font-size: 1.5em;
+    font-family: 'Mountains of Christmas', sans-serif;
+    font-weight: 900;
+}
+
+
+/*--------------------------------------------------------- Padding ----*/
+
+p {
+    margin-bottom: 0;
+}
+
+
+/*--------------------------------------------------------- Divider ----*/
+
+.block-divider {
+    width: 40px;
+    height: 10px;
+    margin: 20px 0px;
+    border: 0;
+    border-radius: 40px;
+    background-color: #444;
+    text-align: center;
+}
+
+
+/*--------------------------------------------------------- Section----*/
+
+.section-bgc {
+    background-color: rgb(91, 214, 255);
+}
+
+.section-title {
+    font-family: 'Mountains of Christmas', sans-serif;
+    padding: 25px 10px 50px;
+    text-transform: uppercase;
+}
+
+.section-gap {
+    margin-bottom: 30px
+}
+
+.member-img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.member-detail {
+    font-family: 'Indie Flower', sans-serif;
+    font-weight: 900;
+    font-size: 1em;
+}
+
+.music-album {
+    width: 250px;
+    height: 250px;
+}
+
+.box-video {
+    width: 400px;
+    height: 300px;
+}
+
+.box-photo {
+    width: 400px;
+    height: 300px;
 }
