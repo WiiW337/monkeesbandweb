@@ -114,10 +114,21 @@ p {
 }
 
 
+/*--------------------------------------------------------- Footer ----*/
+
+footer {
+    background-color: #647a91;
+    height: 30px;
+}
+
+
 /*--------------------------------------------------------- Media Queries ----*/
 
 @media (max-width: 767px) {
     .member-img {
         margin-bottom: 20px;
+    }
+    video {
+        width: 75%;
     }
 }
