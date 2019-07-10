@@ -112,3 +112,12 @@ p {
 .input-mgn {
     margin-bottom: 15px;
 }
+
+
+/*--------------------------------------------------------- Media Queries ----*/
+
+@media (max-width: 767px) {
+    .member-img {
+        margin-bottom: 20px;
+    }
+}
