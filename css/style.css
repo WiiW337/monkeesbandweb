@@ -23,10 +23,22 @@
 }
 
 
-/*--------------------------------------------------------- Padding ----*/
+/*--------------------------------------------------------- Padding/ Spacing----*/
 
 p {
     margin-bottom: 0;
+}
+
+.padding-music-album {
+    padding-left: 0;
+}
+
+.section-mgn {
+    margin-bottom: 30px
+}
+
+.section-pd {
+    padding-bottom: 30px;
 }
 
 
@@ -55,10 +67,6 @@ p {
     text-transform: uppercase;
 }
 
-.section-gap {
-    margin-bottom: 30px
-}
-
 .member-img {
     width: 180px;
     height: 180px;
@@ -72,8 +80,18 @@ p {
 }
 
 .music-album {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
+}
+
+.music-name {
+    font-family: 'Indie Flower', sans-serif;
+    font-size: 1.2em;
+    font-weight: 900;
+}
+
+.music-parent {
+    display: flex;
 }
 
 .box-video {
@@ -82,7 +100,7 @@ p {
 }
 
 .box-photo {
-    width: 400px;
+    width: 300px;
     height: 300px;
 }
 
@@ -91,11 +109,6 @@ p {
     font-weight: 900;
     font-size: 1.5em;
     text-align: center;
-}
-
-.contact-textbox {
-    width: 400px;
-    height: 200px;
 }
 
 .jumbotron {
@@ -113,6 +126,10 @@ p {
     margin-bottom: 15px;
 }
 
+.fa {
+    color: white;
+}
+
 
 /*--------------------------------------------------------- Footer ----*/
 
@@ -124,11 +141,32 @@ footer {
 
 /*--------------------------------------------------------- Media Queries ----*/
 
-@media (max-width: 767px) {
+@media (max-width: 767.98px) {
     .member-img {
         margin-bottom: 20px;
     }
     video {
         width: 75%;
+    }
+    .music-name {
+        padding-top: 5px;
+    }
+}
+
+@media (min-width: 576px) {
+    .music-child {
+        position: absolute;
+        top: 25%;
+        left: 45%;
+    }
+    .fa {
+        font-size: 4em;
+        padding: 20px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    audio {
+        width: 200px;
     }
 }
