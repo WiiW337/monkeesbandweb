@@ -1,12 +1,12 @@
 # MONKEE'S WEBPAGE
-- A page to show the music,video,photo of the band. url (https://wiiw337.github.io/monkeesbandweb/.)
+- A site to show the music,video,photo of the band. url (https://wiiw337.github.io/monkeesbandweb/.)
  
 
 ## UX
-- the website wireframes i design by using **Balsamiq**.
+- The website wireframes is design by using **Balsamiq**. 
  
 
-## Features
+## Page Notes
 - In HOME page, let the user to know more about the band's member info.
 - In MEDIA page, let user to listen band's music, band's music video, & some of the band's photo.
 - Last page CONTACT, to let user to hire the band for perform in the party. & list out some of the official social website such as facebook, instagram, & youtube.
@@ -20,10 +20,12 @@
  
 
 ## Testing
+- The site was tested on Google Chrome browser.
 - Because of the grid system of bootstrap, the webpage is responsive to different screen size. 
 
 
+
 ## Credit
-- in HOME page, member detail is get from Wikipedia
-- 
+- All material like photos, musics, & videos is get from the milestone project 1 of code institute.
+- Member detail is get from Wikipedia.
 
