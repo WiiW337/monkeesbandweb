@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas:100,200,300,400,500,600,700,800,900|Indie+Flower:100,200,300,400,500,600,700&display=swap');
 .top-img {
-    background-image: url('../assets/images/monkees.jpg');
+    background-image: url("https://wiiw337.github.io/monkeesbandweb/assets/images/monkees.jpg");
     background-size: cover;
     background-position: center center;
     width: 100%;
