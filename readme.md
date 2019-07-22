@@ -4,12 +4,22 @@
  
 
 ## UX
-- The website wireframes is design by using **Balsamiq**. 
+- The website wireframes were created by using **Balsamiq**. 
 
+1. Page 1 - **Home**
 <div align="center">
     <img src="assets/images/BSM-INDEX.png">
 </div>
  
+2. Page 2 - **Media**
+<div align="center">
+    <img src="assets/images/BSM-MEDIA.png">
+</div>
+
+3. Page 3 - **Contact**
+<div align="center">
+    <img src="assets/images/BSM-CONTACT.png">
+</div>
 
 ## Page Notes
 - In HOME page, let the user to know more about the band's member info.
