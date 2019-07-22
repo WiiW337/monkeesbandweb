@@ -7,7 +7,7 @@
 - The website wireframes is design by using **Balsamiq**. 
 
 <div align="center">
-    <img src="assets/images/BSM - INDEX.png">
+    <img src="assets/images/BSM-INDEX.png">
 </div>
  
 
