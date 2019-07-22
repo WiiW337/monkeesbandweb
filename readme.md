@@ -1,9 +1,14 @@
 # MONKEE'S WEBPAGE
-- A site to show the music,video,photo of the band. url (https://wiiw337.github.io/monkeesbandweb/.)
+- A site to show the music,video,photo of the band. 
+[Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
  
 
 ## UX
 - The website wireframes is design by using **Balsamiq**. 
+
+<div align="center">
+    <img src="assets/images/BSM - INDEX.png">
+</div>
  
 
 ## Page Notes
@@ -21,7 +26,7 @@
 
 ## Testing
 - The site was tested on Google Chrome browser.
-- Because of the grid system of bootstrap, the webpage is responsive to different screen size. 
+- Because of the grid system of bootstrap, the webpage is responsive to different screen size like desktop, tablet, mobile.
 
 
 
