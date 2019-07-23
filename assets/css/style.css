@@ -22,6 +22,10 @@
     font-weight: 900;
 }
 
+.navbar-light .navbar-nav .nav-link.active {
+    color: blue;
+}
+
 
 /* Padding/ Spacing */
 
