@@ -103,6 +103,12 @@ p {
     height: 300px;
 }
 
+.table-font {
+    font-family: 'Indie Flower', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
 .contact-text {
     font-family: 'Indie Flower', sans-serif;
     font-weight: 900;
