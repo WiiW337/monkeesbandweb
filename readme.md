@@ -1,5 +1,5 @@
 # MONKEE'S WEBPAGE
-A site to show the music,video,photo of the band. 
+A site to show the music, video, & photo of the band called as **Monkee**
 
 [Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
  
