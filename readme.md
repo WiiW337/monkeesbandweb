@@ -7,17 +7,20 @@ A site to show the music,video,photo of the band.
 ## UX
 The website wireframes were created by using **Balsamiq**. 
 
-1. Page 1 - **Home**
+Page 1 - **Home**
 <div align="center">
     <img src="assets/images/BSM-INDEX.png">
 </div>
  
-2. Page 2 - **Media**
+Page 2 - **Media**
 <div align="center">
     <img src="assets/images/BSM-MEDIA.png">
 </div>
 
-3. Page 3 - **Contact**
+Page 3 - **EVENT**
+Page 3 was added after done in wireframe design. So, the page is using the same design witht other pages, just different in <section> part.
+
+Page 4 - **Contact**
 <div align="center">
     <img src="assets/images/BSM-CONTACT.png">
 </div>
