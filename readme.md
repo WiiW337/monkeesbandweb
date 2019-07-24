@@ -18,6 +18,7 @@ Page 2 - **Media**
 </div>
 
 Page 3 - **EVENT**
+
 Page 3 was added after done in wireframe design. So, the page is using the same design witht other pages, just different in <section> part.
 
 Page 4 - **Contact**
