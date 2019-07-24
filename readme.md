@@ -1,10 +1,11 @@
 # MONKEE'S WEBPAGE
-- A site to show the music,video,photo of the band. 
+A site to show the music,video,photo of the band. 
+
 [Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
  
 
 ## UX
-- The website wireframes were created by using **Balsamiq**. 
+The website wireframes were created by using **Balsamiq**. 
 
 1. Page 1 - **Home**
 <div align="center">
@@ -21,26 +22,41 @@
     <img src="assets/images/BSM-CONTACT.png">
 </div>
 
-## Page Notes
-- In HOME page, let the user to know more about the band's member info.
-- In MEDIA page, let user to listen band's music, band's music video, & some of the band's photo.
-- Last page CONTACT, to let user to hire the band for perform in the party. & list out some of the official social website such as facebook, instagram, & youtube.
+## Features
+
+#### **HOME** Page
+Let the user to know more about the band's member info.
+
+#### **MEDIA** Page
+Let user to listen band's music, band's music video, & some of the band's photo.
+
+#### **Event** Page
+Let user know more details about coming events of the band such as Date & Place.
+
+#### **CONTACT** Page
+Let user to hire the band for perform in the party and list out some of the official social website such as facebook, instagram, & youtube to let fan follows.
 
 
 ## Technologies Used
-- CDN of Bootstrap. (https://getbootstrap.com/)
-- Font from google. (https://fonts.google.com/)
-- I use the **Visual Studio Code** to build this website
-- & save the code to github. (https://github.com/)
+- HTML
+- CSS
+- jQuery
+- Popper.js
+- Bootstrap
+- Google Fonts
+- Git
  
 
 ## Testing
 - The site was tested on Google Chrome browser.
 - Because of the grid system of bootstrap, the webpage is responsive to different screen size like desktop, tablet, mobile.
+- Links in **HOME** page was tested & is work.
+- Music & Video in **MEDIA** page also tested & is work too.
+- Form in **CONTACT** page was tested by no enter any info or wrongly enter information, the form will notify user.
 
 
 
 ## Credit
-- All material like photos, musics, & videos is get from the milestone project 1 of code institute.
-- Member detail is get from Wikipedia.
+- All material like photos, musics, & videos were obtained from the milestone project 1 of code institute.
+- Member details were copied & link from [wikipedia](https://en.wikipedia.org)
 
