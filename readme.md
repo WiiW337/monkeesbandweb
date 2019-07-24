@@ -22,6 +22,11 @@ The website wireframes were created by using **Balsamiq**.
     <img src="assets/images/BSM-CONTACT.png">
 </div>
 
+
+I keep everything very simple & clean in design, so the user can easily to use the website.
+
+
+
 ## Features
 
 #### **HOME** Page
@@ -38,6 +43,7 @@ Let user to hire the band for perform in the party and list out some of the offi
 
 
 ## Technologies Used
+Technologies i used on this website is listed as below:
 - HTML
 - CSS
 - jQuery
