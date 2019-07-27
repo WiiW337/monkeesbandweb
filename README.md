@@ -1,4 +1,4 @@
-# MONKEE'S WEBPAGE
+gi# MONKEE'S WEBPAGE
 A site to show the music, video, & photo of the band called as **Monkee**
 
 [Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
@@ -69,6 +69,7 @@ Technologies i used on this website is listed as below:
 - Links in **HOME** page was tested & is work.
 - Music & Video in **MEDIA** page also tested & is work too.
 - Form in **CONTACT** page was tested by no enter any info or wrongly enter information, the form will notify user.
+- Social media links in **CONTACT** page is tested & work. Browser will open a new tab for the social media website.
 - Also tested by other user from community of slack. 
 
 
