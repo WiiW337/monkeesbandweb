@@ -10,16 +10,18 @@
 
 /* NavBar */
 
-.navbar-brand {
-    font-size: 2em;
+.navbar-brand,
+.navbar-nav {
     font-family: 'Mountains of Christmas', sans-serif;
     font-weight: 900;
 }
 
+.navbar-brand {
+    font-size: 2em;
+}
+
 .navbar-nav {
     font-size: 1.5em;
-    font-family: 'Mountains of Christmas', sans-serif;
-    font-weight: 900;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
@@ -159,6 +161,9 @@ footer {
     }
     .music-name {
         padding-top: 5px;
+    }
+    .table-font {
+        font-size: 95%;
     }
 }
 
