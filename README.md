@@ -74,7 +74,7 @@ Technologies i used on this website is listed as below:
 
 
 ## Deployment
-- The website is deploy by using **Github Pages**
+- The website is deploy by using [**Github Pages**](https://wiiw337.github.io/monkeesbandweb/)
 
 
 ## Credit
