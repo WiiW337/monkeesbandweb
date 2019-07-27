@@ -1,4 +1,4 @@
-gi# MONKEE'S WEBPAGE
+# MONKEE'S WEBPAGE
 A site to show the music, video, & photo of the band called as **Monkee**
 
 [Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
@@ -73,9 +73,17 @@ Technologies i used on this website is listed as below:
 - Also tested by other user from community of slack. 
 
 
+## Deployment
+- The website is deploy by using **Github Pages**
+
+
 ## Credit
-- All material like photos, musics, & videos were obtained from the milestone project 1 of code institute. (https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets)
+
+#### Content
 - Member details were copied & link from [wikipedia](https://en.wikipedia.org)
-- Navbar & table in **EVENT** page also copied from bootstrap's component (https://getbootstrap.com/)
+
+#### Media
+- All material like photos, musics, & videos were obtained from the milestone project 1 of code institute. (https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets)
+
 
 
