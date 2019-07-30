@@ -1,5 +1,5 @@
-# MONKEE'S WEBPAGE
-A site to show the music, video, & photo of the band called as **Monkee**
+# THE MONKEES WEBPAGE
+My goal to create this website to let the fans can easily follow their favourite band, **The Monkees**.
 
 [Visit the webpage](https://wiiw337.github.io/monkeesbandweb/)
  
@@ -14,27 +14,18 @@ As a fan of the band, he/she can pick 1 of the selection from the menu on top to
 - contact/hire the band for function like birthday party/wedding party.
 
 
-#### Wireframe
+#### Mockup & Wireframes
 The website wireframes were created by using **Balsamiq**.
 
-Page 1 - **Home**
-<div align="center">
-    <img src="assets/images/BSM-INDEX.png">
-</div>
+[Page 1 - **Home**](https://github.com/WiiW337/monkeesbandweb/blob/master/assets/images/BSM-INDEX.png)
  
-Page 2 - **Media**
-<div align="center">
-    <img src="assets/images/BSM-MEDIA.png">
-</div>
+[Page 2 - **Media**](https://github.com/WiiW337/monkeesbandweb/blob/master/assets/images/BSM-MEDIA.png)
 
-Page 3 - **EVENT**
+[Page 4 - **Contact**](https://github.com/WiiW337/monkeesbandweb/blob/master/assets/images/BSM-CONTACT.png)
 
-Page 3 was added after done in wireframe design. So, the page is using the same design with other pages, just different in <section> part.
 
-Page 4 - **Contact**
-<div align="center">
-    <img src="assets/images/BSM-CONTACT.png">
-</div>
+Page 3 was added after done in wireframe design. This page is using the same design with other pages, just different in <section> part.
+
 
 
 ## Features
@@ -54,8 +45,8 @@ Let user to hire the band for perform in the party and list out some of the offi
 
 ## Technologies Used
 Technologies i used on this website is listed as below:
-- HTML5 - The body structure of website is wrote by HTML5
-- CSS - The website is style by css
+- HTML5 - The create the structure & layout of website.
+- CSS - Style the website to make more interesting.
 - jQuery - To make the navbar work 
 - Popper.js - To make the navbar work
 - Bootstrap - Grid system of bootstrap make the job don easily, & some useful classes from bootstrap also help alot.
@@ -74,7 +65,14 @@ Technologies i used on this website is listed as below:
 
 
 ## Deployment
-- The website is deploy by using [**Github Pages**](https://wiiw337.github.io/monkeesbandweb/)
+The website was developed using Visual Studio Code. I also use Git to save my code in Github.
+
+Git command that i used in this project:
+- **git add 'filename'** - track the new/edited file
+- **git commit** - to commit the changes
+- **git push** - push the code to github
+
+In Github setting, i activated an useful feature of github, **Github Pages**, this allow my project deploy to a website. Now, my project is hosted using Github Pages, deployed directly from the master branch. [View](https://github.com/WiiW337/monkeesbandweb)
 
 
 ## Credit
