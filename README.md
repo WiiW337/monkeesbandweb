@@ -75,6 +75,16 @@ Git command that i used in this project:
 In Github setting, i activated an useful feature of github, **Github Pages**, this allow my project deploy to a website. Now, my project is hosted using Github Pages, deployed directly from the master branch. [View](https://github.com/WiiW337/monkeesbandweb)
 
 
+You can copy my project into IDE that you using, you just have to:
+1. Open my repository on github. [Here](https://github.com/WiiW337/monkeesbandweb)
+2. Click a button name **Clone or download**.
+3. Copy the clone URL for the repository.
+4. Go to IDE that you are using & open the terminal.
+5. Make a new folder to clone my project.
+6. Type git clone https://github.com/WiiW337/monkeesbandweb.git
+7. My project will be cloned into your local repository.
+
+
 ## Credit
 
 #### Content
